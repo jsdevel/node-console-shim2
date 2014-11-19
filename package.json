@@ -1,7 +1,7 @@
 {
   "name": "console-shim2",
   "main": "console-shim2.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An unobtrusive console shim that works in node scripts and browsers.",
   "author": "Joseph Spencer",
   "scripts": {

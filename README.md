@@ -58,8 +58,8 @@ THE SOFTWARE.
 [npm-url]: https://npmjs.org/package/console-shim2
 [npm-image]: http://img.shields.io/npm/v/console-shim2.svg
 
-[travis-url]: https://travis-ci.org/jsdevel/console-shim2
-[travis-image]: http://img.shields.io/travis/jsdevel/console-shim2.svg
+[travis-url]: https://travis-ci.org/jsdevel/node-console-shim2
+[travis-image]: http://img.shields.io/travis/jsdevel/node-console-shim2.svg
 
-[coveralls-url]: https://coveralls.io/r/jsdevel/console-shim2
-[coveralls-image]: http://img.shields.io/coveralls/jsdevel/console-shim2/master.svg
+[coveralls-url]: https://coveralls.io/r/jsdevel/node-console-shim2
+[coveralls-image]: http://img.shields.io/coveralls/jsdevel/node-console-shim2/master.svg

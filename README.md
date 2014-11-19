@@ -5,29 +5,29 @@ This shim does the following:
 
 1. Check to see if the global object contains `console`.  If it does, use it.  If it does not, shim it.
 2. Check to see if the following methods are available on the console object.  If they're not, shim em:
-** `debug`
-** `error`
-** `info`
-** `log`
-** `warn`
-** `dir`
-** `dirxml`
-** `table`
-** `trace`
-** `assert`
-** `count`
-** `markTimeline`
-** `profile`
-** `profileEnd`
-** `time`
-** `timeEnd`
-** `timeStamp`
-** `timeline`
-** `timelineEnd`
-** `group`
-** `groupCollapsed`
-** `groupEnd`
-** `clear`
+  * `debug`
+  * `error`
+  * `info`
+  * `log`
+  * `warn`
+  * `dir`
+  * `dirxml`
+  * `table`
+  * `trace`
+  * `assert`
+  * `count`
+  * `markTimeline`
+  * `profile`
+  * `profileEnd`
+  * `time`
+  * `timeEnd`
+  * `timeStamp`
+  * `timeline`
+  * `timelineEnd`
+  * `group`
+  * `groupCollapsed`
+  * `groupEnd`
+  * `clear`
 
 ##LICENSE
 ``````
